@@ -22,4 +22,4 @@ To use the responsive navbar in your project, follow these steps:
 
 ## Demo
 
-For a live demonstration, visit [Responsive Navbar Demo](https://mrahmadhassankhan.github.io/Responsive-Navbar).
+For a live demonstration, visit [Responsive Navbar Demo]( https://mrahmadhassankhan.github.io/Responsive-Navbar/).
