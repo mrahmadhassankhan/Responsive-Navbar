@@ -19,3 +19,7 @@ To use the responsive navbar in your project, follow these steps:
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/your-username/responsive-navbar.git
+
+## Demo
+
+For a live demonstration, visit [Responsive Navbar Demo](https://mrahmadhassankhan.github.io/Responsive-Navbar).
